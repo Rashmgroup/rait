@@ -17,6 +17,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         <meta property="og:type" content="website" />
         <meta property="og:title" content={METADATA.title} />
         <meta property="og:description" content={METADATA.description} />
+        <meta name="keywords" content="RAIT, RRF, rait, rashm, Career Counseling, Skill Development, BTEUP Students, Student Career Guidance, Career Coaching, Rashm Roadmap Foundation, Education Support, Professional Development, Career Pathways, Student Success Support, Job Preparation">
         <meta property="og:url" content={METADATA.siteUrl} />
         <meta property="og:site_name" content={METADATA.title} />
         <meta
