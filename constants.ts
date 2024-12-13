@@ -2,7 +2,7 @@ export const METADATA = {
   title: "Rashm Academy of Information Technology",
   description:
     "RAIT(Rashm Academy of Information Technology) have passionate educators and teachers, dedicated to bridging the gap in students' learning, helping them connect theory with practice and empowering them to reach their full potential",
-    siteUrl: "https://amsrportfolio.netlify.app/",
+    siteUrl: "https://rait-rrf.vercel.app/",
 };
 
 export const MENULINKS = [
