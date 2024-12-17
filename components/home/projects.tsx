@@ -126,7 +126,7 @@ const ProjectsSection = ({ isDesktop }: IDesktop) => {
       <h1 className="section-heading seq mt-2">Our Course&apos;s</h1>
       <h2 className="text-2xl md:max-w-3xl w-full seq max-w-sm mt-2">
       After learning this course you will become Expert in DCA , ADCA , DFA , ADFA 
-      Olevel & CCC by NIELET , Learn HTML CSS JS (lib/frameworks) Build Killer Webs 🚀 
+      Olevel & CCC by NIELIT , Learn HTML CSS JS (lib/frameworks) Build Killer Webs 🚀 
       </h2>
     </div>
   );

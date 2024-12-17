@@ -1,7 +1,7 @@
 export const METADATA = {
   title: "Rashm Academy of Information Technology",
   description:
-    "RAIT(Rashm Academy of Information Technology) have passionate educators and teachers, dedicated to bridging the gap in students' learning, helping them connect theory with practice and empowering them to reach their full potential",
+    "RAIT ( Rashm Academy of Information Technology ) have passionate educators and teachers, dedicated to bridging the gap in students' learning, helping them connect theory with practice and empowering them to reach their full potential",
     siteUrl: "https://rait-rrf.vercel.app/",
 };
 
@@ -38,15 +38,15 @@ export const TYPED_STRINGS = [
 export const EMAIL = "rashmgroup@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/",
+  linkedin: "https://www.linkedin.com/in/rashm-roadmap-foundation-7a3998323/",
   github: "https://github.com/",
   medium: "https://medium.com/",
   instagram: "https://www.instagram.com/",
-  facebook: "https://www.facebook.com/",
+  facebook: "facebook.com/profile.php?id=61563253574303",
   dribbble: "https://dribbble.com/",
-  behance: "https://www.behance.net//",
-  twitter: "https://twitter.com/",
-  topmate: "https://www.topmate.io/",
+  youtube: "https://www.youtube.com/@RAIT-Gorakhpur",
+  twitter: "https://x.com/?logout=1734421072464",
+  whatsapp: "https://www.whatsapp.com/channel/0029VazBdCl7DAWrTOSYs33I",
 };
 
 export interface IProject {
@@ -65,7 +65,7 @@ export const PROJECTS: IProject[] = [
     name: "DCA Complete Course",
     image: "/courses/DCA.jpg",
     blurImage: "/courses/blur/dlt-website-blur.jpg",
-    description: "Diploma in computer application is great course for you",
+    description: "Diploma in computer application is good course for you",
     gradient: ["#245B57", "#004741"],
     url: "",
     tech: ["excel", "powerpoint", "network"],
@@ -80,10 +80,10 @@ export const PROJECTS: IProject[] = [
     tech: ["network", "computer", "excel", "html"],
   },
   {
-    name: "Diginer - Web/Graphic designer",
+    name: "Designer - Web/Graphic designer",
     image: "/courses/web&grap.jpg",
     blurImage: "/courses/blur/figgen-blur.jpg",
-    description: "After learning this course you will become Expert Des!",
+    description: "After learning this course you will become Expert designer!",
     gradient: ["#1F6582", "#1ABCFE"],
     url: "",
     tech: ["figma","html","css"],
